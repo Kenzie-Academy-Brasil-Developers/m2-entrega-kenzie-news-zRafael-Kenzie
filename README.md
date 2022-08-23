@@ -2,4 +2,4 @@
 
 ## Api utilizada
 
-https://kenzie-news-api.herokuapp.com/api/news
+gethttps://kenzie-news-api.herokuapp.com/api/news
