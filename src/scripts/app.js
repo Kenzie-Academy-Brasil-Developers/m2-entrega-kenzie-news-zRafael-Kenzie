@@ -108,3 +108,4 @@ class Noticias {
 }
 
 Noticias.ChamarApi()
+//let teste = 0
